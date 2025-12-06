@@ -9,6 +9,9 @@
   <img alt="vite" src="https://img.shields.io/badge/vite-supported-646CFF?logo=vite" />
   <img alt="typescript" src="https://img.shields.io/badge/typescript-supported-blue" />
 </p>
+Demo Video
+https://drive.google.com/file/d/1tGBfCgq1kHU-gFer1MiPic23i6jSW_N0/view?usp=drive_link
+
 
 # Integration steps for UI Kit Builder
 
