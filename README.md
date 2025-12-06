@@ -269,5 +269,3 @@ If your development server is running, restart it to ensure the new TypeScript c
 > ```
 
 For detailed steps, refer to our <a href="https://www.cometchat.com/docs/ui-kit/react/builder-integration" target="_blank">UI Kit Builder documentation</a>
-#Demo Video
-<a href="https://drive.google.com/file/d/1tGBfCgq1kHU-gFer1MiPic23i6jSW_N0/view?usp=drive_link"></a>
